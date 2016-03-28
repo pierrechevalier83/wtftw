@@ -208,7 +208,7 @@ impl Config {
                 .write("[project]\nname = \"config\"\nversion = \"0.0.0\"\nauthors = \
                         [\"wtftw\"]\n\n[dependencies.wtftw_contrib]
                                      \
-                        git = \"https://github.com/Kintaro/wtftw-contrib.git\"\n
+                        git = \"https://github.com/pierrechevalier83/wtftw-contrib.git\"\n
                                      \
                         [dependencies.wtftw]\ngit = \
                         \"https://github.com/pierrechevalier83/wtftw.git\"\n\n[lib]\nname = \
